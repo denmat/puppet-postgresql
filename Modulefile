@@ -9,5 +9,5 @@ project_page 'https://github.com/puppetlabs/puppet-postgresql'
 
 dependency 'puppetlabs/stdlib', '3.2.x'
 dependency 'puppetlabs/firewall', '>= 0.0.4'
-dependency 'puppetlabs/apt', '1.x'
+dependency 'puppetlabs/apt', '>=1.1.0'
 dependency 'ripienaar/concat', '>= 0.2.0'
